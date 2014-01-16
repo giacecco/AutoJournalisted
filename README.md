@@ -26,7 +26,7 @@ Please note that I am not associated to the Media Standard Trust and this source
 ## Installation
 AutoJournalisted is designed to run unattended within a dedicated Google Drive spreadsheet. This means that you don't need a laptop or a "server" to run AutoJournalisted on: Google will host it for you for free!
 
-Clone [this spreadsheet](https://docs.google.com/spreadsheet/ccc?key=0Ani-XvikxKzAdHJYbWJoODdrSUNudnRTSUhfOElkTkE&usp=sharing) to your Google Drive account by opening it and choosing the *File | Make a copy...* option from the menu.
+To run your own AutoJournalisted, clone [this spreadsheet](https://docs.google.com/spreadsheet/ccc?key=0Ani-XvikxKzAdHJYbWJoODdrSUNudnRTSUhfOElkTkE&usp=sharing) to your Google Drive account by opening it and choosing the *File | Make a copy...* option from the menu.
 
 ![](https://raw.github.com/giacecco/AutoJournalisted/master/images/instructions1.png)
 
