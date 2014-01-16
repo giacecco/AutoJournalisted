@@ -17,3 +17,7 @@ var MAX_ARTICLES_FETCHED_PER_REQUEST = 5,
 
 var db = ScriptDb.getMyDb();
 
+function Test() {
+    fetchArticlesForNextJournalist();
+    sendAllJournalistsToInstapaper();
+}
