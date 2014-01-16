@@ -21,7 +21,7 @@ Journalisted currently covers 21 UK news outlets across 14 different websites (l
 - Times Online - The Times and The Sunday Times
 - News of the World
 
-Please note that I am not associated to the Media Standard Trust and this source code is provided "as is", without warranty of any kind.
+Please note that I am not associated to the Media Standard Trust and this source code and the example Google spreadsheet are provided "as is", without warranty of any kind.
 
 ## Installation
 AutoJournalisted is designed to run unattended within a dedicated Google Drive spreadsheet. This means that you don't need a laptop or a "server" to run AutoJournalisted on: Google will host it for you for free!
