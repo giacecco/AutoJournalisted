@@ -93,3 +93,5 @@ That's all! Happy reading!
 ## Licence
 
 ![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png "Creative Commons License") This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+
+At the moment of writing, there are no known restrictions on the use of the Journalisted APIs, nor T&Cs are specified on their website.
