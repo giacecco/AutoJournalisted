@@ -44,29 +44,31 @@ Add the ref to the list of journalists:
 
 ![](https://raw.github.com/giacecco/AutoJournalisted/master/images/instructions9.png)
 
-Now, click on the "play" icon in the toolbar. This is required only once, as it will give you the opportunity to tell Google that it is ok for the scripts to manage data and access external services (Journalisted's APIs). 
+Now, choose "Test" from the drop down menu and click on the "play" icon in the toolbar, as shown in the picture below. This is required only once, as it will give you the opportunity to tell Google that it is ok for the scripts to manage data and access external services (Journalisted's APIs). 
 
 ![](https://raw.github.com/giacecco/AutoJournalisted/master/images/instructions10.png)
 
 ![](https://raw.github.com/giacecco/AutoJournalisted/master/images/instructions11.png)
 
+![](https://raw.github.com/giacecco/AutoJournalisted/master/images/instructions12.png)
+
 Now, after a few seconds you will see that the first few articles have already been added to Instapaper!
 
-![](https://raw.github.com/giacecco/AutoJournalisted/master/images/instructions12.png)
+![](https://raw.github.com/giacecco/AutoJournalisted/master/images/instructions13.png)
 
 Finally, you want AutoJournalisted to run automatically and unattended. Go back to the window with the Script Editor and click on the "triggers" icon, that is the one just left to the "play" icon, the one that looks like a clock.
 
-![](https://raw.github.com/giacecco/AutoJournalisted/master/images/instructions13.png)
+![](https://raw.github.com/giacecco/AutoJournalisted/master/images/instructions14.png)
 
 You will create two triggers. A typical configuration is the one shown below. 
 - The first trigger goes off every 30 minutes and fetches the latest articles for one journalists. The next time it runs, the next journalist will be fetched, and so on. 
 - The second trigger is set to go off once a day, whatever the most suitable time to transfer the data to Instapaper is. Once a day before you wake up is quite convenient, as you will be able to read the new articles over breakfast :-)
 
-![](https://raw.github.com/giacecco/AutoJournalisted/master/images/instructions14.png)
+![](https://raw.github.com/giacecco/AutoJournalisted/master/images/instructions15.png)
 
 If you use Instapaper to send the articles to your Kindle, remember to make that happen *after* AutoJournalisted finished his part!
 
-![](https://raw.github.com/giacecco/AutoJournalisted/master/images/instructions15.png)
+![](https://raw.github.com/giacecco/AutoJournalisted/master/images/instructions16.png)
 
 That's all! Happy reading!
 
