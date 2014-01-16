@@ -5,6 +5,24 @@ AutoJournalisted automatically and unattendedly sends all articles published by 
 
 This is possible thanks to the guys at the [Media Standard Trust](http://mediastandardstrust.org/) whose service [Journalisted](http://journalisted.com/) monitors the journalists' activity and publishes references to their work through nice [APIs](http://journalisted.com/api). By the way, why don't you [thank them](http://www.justgiving.com/mediastandardstrust)?
 
+Journalisted currently covers 21 UK news outlets across 14 different websites (list downloaded from the Journalisted website on 16/1/2014):
+- BBC News Online
+- Financial Times
+- Express.co.uk - Daily Express and Sunday Express
+- Mail Online - Daily Mail and Mail on Sunday
+- Telegraph.co.uk - Daily Telegraph and Sunday Telegraph
+- Guardian.co.uk - The Guardian and The Observer
+- The Herald
+- Independent.co.uk - The Independent and The Independent on Sunday
+- Mirror.co.uk - Daily Mirror and Sunday Mirror
+- The Scotsman
+- Scotland on Sunday
+- The Sun
+- Times Online - The Times and The Sunday Times
+- News of the World
+
+Please note that I am not associated to the Media Standard Trust and this source code is provided "as is", without warranty of any kind.
+
 ## Installation
 AutoJournalisted is designed to run unattended within a dedicated Google Drive spreadsheet. This means that you don't need a laptop or a "server" to run AutoJournalisted on: Google will host it for you for free!
 
