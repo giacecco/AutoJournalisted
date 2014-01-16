@@ -56,23 +56,20 @@ Now, after a few seconds you will see that the first few articles have already b
 
 Finally, you want AutoJournalisted to run automatically and unattended. Go back to the window with the Script Editor and click on the "triggers" icon, that is the one just left to the "play" icon, the one that looks like a clock.
 
+![](https://raw.github.com/giacecco/AutoJournalisted/master/images/instructions13.png)
+
 You will create two triggers. A typical configuration is the one shown below. 
 - The first trigger goes off every 30 minutes and fetches the latest articles for one journalists. The next time it runs, the next journalist will be fetched, and so on. 
 - The second trigger is set to go off once a day, whatever the most suitable time to transfer the data to Instapaper is. Once a day before you wake up is quite convenient, as you will be able to read the new articles over breakfast :-)
 
-![](https://raw.github.com/giacecco/AutoJournalisted/master/images/instructions13.png)
+![](https://raw.github.com/giacecco/AutoJournalisted/master/images/instructions14.png)
 
 If you use Instapaper to send the articles to your Kindle, remember to make that happen *after* AutoJournalisted finished his part!
 
-![](https://raw.github.com/giacecco/AutoJournalisted/master/images/instructions14.png)
+![](https://raw.github.com/giacecco/AutoJournalisted/master/images/instructions15.png)
 
+That's all! Happy reading!
 
+## Licence
 
-
-
-
-
-
-
-
-
+![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png "Creative Commons License") This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
